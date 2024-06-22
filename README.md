@@ -2,14 +2,14 @@
 
 <h1>Python 工具箱 - PyTools</h1>
 
-![GitHub stars](https://img.shields.io/github/stars/hrpzcf/AwesomePyKit?style=flat)
-![GitHub forks](https://img.shields.io/github/forks/hrpzcf/AwesomePyKit?style=flat)
-![GitHub issues](https://img.shields.io/github/issues/hrpzcf/AwesomePyKit)
-![GitHub license](https://img.shields.io/github/license/hrpzcf/AwesomePyKit)
-![GitHub release](https://img.shields.io/github/v/release/hrpzcf/AwesomePyKit)
-![PyPI Release](https://img.shields.io/pypi/v/Awespykit?label=PyPi)
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Awespykit?label=Python)
-![PyPI - Wheel](https://img.shields.io/pypi/wheel/Awespykit?label=Wheel)
+![GitHub stars](https://img.shields.io/github/stars/HelloEasytong/PyTools?style=flat)
+![GitHub forks](https://img.shields.io/github/forks/HelloEasytong/PyTools?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/HelloEasytong/PyTools)
+![GitHub license](https://img.shields.io/github/license/HelloEasytong/PyTools)
+![GitHub release](https://img.shields.io/github/v/release/HelloEasytong/PyTools)
+![PyPI Release](https://img.shields.io/pypi/v/PyTools?label=PyPi)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/PyTools?label=Python)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/PyTools?label=Wheel)
 
 </div>
 

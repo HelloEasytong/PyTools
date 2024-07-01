@@ -1,0 +1,26 @@
+/* Note: Please save with utf-8 encoding */
+
+/* 关于窗口的相关样式 */
+QMainWindow[objectName="about_window"] QLabel {
+    font-size: 9pt;
+}
+#uiGroupBox_app_name {
+    font-size: 22pt;
+    padding-top: 8px;
+    margin-top: 22px;
+}
+#uiGroupBox_app_name::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top left;
+    left: 16px;
+}
+#uiLabel_app_description {
+    font-size: 9pt;
+}
+#uiLabel_app_version, #uiLabel_license, #uiLabel_source_github,
+#uiLabel_source_gitee, #uiLabel_issue_github, #uiLabel_issue_gitee {
+    color: #3282F6;
+}
+#uiPlainTextEdit_open_packages {
+    font-size: 9pt;
+}
